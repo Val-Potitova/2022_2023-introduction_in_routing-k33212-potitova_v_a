@@ -7,3 +7,7 @@
 <p>Lab: Lab1</p>
 <p>Date of create: 18.11.2022</p>
 <p>Date of finished: 02.12.2022</p>
+
+
+<h1 style="text-align:center;">Лабораторная работ №1</h1>
+<h2 style="text-align:center;">Установка ContainerLab и развертывание тестовой сети связи<h2>
