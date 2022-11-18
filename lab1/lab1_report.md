@@ -130,3 +130,8 @@ add disabled=no interface=bridge20
 /system identity
 set name=SW02.L3.02.TEST
 </pre></code>
+
+<h4>Результаты пингов, проверки локальной связности</h4>
+<img src="1.png" alt="Вывод ip-адресов">
+<img src="1.png" alt="Доступность хостов">
+<img src="1.png" alt="ip-адрес устройства">
