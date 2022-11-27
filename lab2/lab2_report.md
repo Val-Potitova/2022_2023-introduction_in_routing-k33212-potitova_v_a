@@ -139,4 +139,10 @@ add distance=1 dst-address=192.168.10.0/24 gateway=192.168.30.1
 add distance=1 dst-address=192.168.20.0/24 gateway=192.168.30.1
 /system identity
 set name=PC3
-</pre></code>
+</pre></code><h4>Результаты пингов, проверки локальной связности</h4>
+<img src="1.png" alt="PC2">
+<img src="2.png" alt="PC1">
+<img src="3.png" alt="PC3">
+
+<h3>Вывод</h3>
+<p>В ходе роботы мы ознакомились с принципами планирования IP адресов, настройкой статической маршрутизации и сетевыми функциями устройств.</p>
