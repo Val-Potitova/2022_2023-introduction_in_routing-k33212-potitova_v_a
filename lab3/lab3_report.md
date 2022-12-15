@@ -237,5 +237,13 @@ set name=PC1
 <img src="1.png" alt="Доступность хоста">
 <img src="2.png" alt="Доступность хоста">
 
+<h4>Выкладки с маршрутами на каждом устройстве</h4>
+<img src=".png" alt="">
+<img src=".png" alt="">
+<img src=".png" alt="">
+<img src=".png" alt="">
+<img src=".png" alt="">
+<img src=".png" alt="">
+
 <h3>Вывод</h3>
 <p>Были изучены протоколы OSPF и MPLS, механизмы организации EoMPLS.</p>
