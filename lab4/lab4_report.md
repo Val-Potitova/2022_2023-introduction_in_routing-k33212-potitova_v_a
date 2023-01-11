@@ -236,9 +236,9 @@ set name=R01.SVL
 </pre></code>
 
 <h4>Результаты пингов, проверки связности между VRF</h4>
-<img src="NY.png" alt="NY">
-<img src="SLV.png" alt="SLV">
-<img src="SPB.png" alt="SPB">
+<img src="NY.jpg" alt="NY">
+<img src="SLV.jpg" alt="SLV">
+<img src="SPB.jpg" alt="SPB">
 
 <h5>Часть 2</h5>
 
@@ -396,9 +396,9 @@ set name=PC3
 </pre></code>
 
 <h4>Результаты пингов, проверки локальной связности</h4>
-<img src="PC1.png" alt="PC1">
-<img src="PC2.png" alt="PC2">
-<img src="PC3.png" alt="PC3">
+<img src="PC1.jpg" alt="PC1">
+<img src="PC2.jpg" alt="PC2">
+<img src="PC3.jpg" alt="PC3">
 
 <h3>Вывод</h3>
 <p>Были изучены протоколы BGP, MPLS и правила организации L3VPN и VPLS.</p>
