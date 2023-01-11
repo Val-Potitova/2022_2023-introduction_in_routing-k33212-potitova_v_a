@@ -237,7 +237,7 @@ set name=R01.SVL
 
 <h4>Результаты пингов, проверки связности между VRF</h4>
 <img src="NY.jpg" alt="NY">
-<img src="SLV.jpg" alt="SLV">
+<img src="SVL.jpg" alt="SLV">
 <img src="SPB.jpg" alt="SPB">
 
 <h5>Часть 2</h5>
