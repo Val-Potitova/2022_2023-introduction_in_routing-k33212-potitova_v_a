@@ -353,7 +353,7 @@ add area=backbone
 set name=R01.SVL
 </pre></code>
 
-<h6>R01.PC1</h6>
+<h6>PC1</h6>
 <pre><code>
 /interface wireless security-profiles
 set [ find default=yes ] supplicant-identity=MikroTik
@@ -367,7 +367,7 @@ add disabled=no interface=ether2
 set name=PC1
 </pre></code>
 
-<h6>R01.PC2</h6>
+<h6>PC2</h6>
 <pre><code>
 /interface wireless security-profiles
 set [ find default=yes ] supplicant-identity=MikroTik
@@ -381,7 +381,7 @@ add disabled=no interface=ether1
 set name=PC2
 </pre></code>
 
-<h6>R01.PC3</h6>
+<h6>PC3</h6>
 <pre><code>
 /interface wireless security-profiles
 set [ find default=yes ] supplicant-identity=MikroTik
